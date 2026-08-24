@@ -9,7 +9,8 @@
 main{
 display: inline-block;
 border: 2px, solid, black;
-
+/* falta diminuir a largura do main nessa linha*/
+margin-inline: auto;
 }
 
 
@@ -21,5 +22,24 @@ border: 2px, solid, black;
 }
 
 a{
+    display: inline-block;
+    border: 2px, solid, black;
+    padding: 13px 30px;
+}
+
+
+.textos p{
+    display: block;
+    border: 1px, solid, black;
+    margin-bottom: 20px;
+}
+
+.textos2{
+    display: block;
+    border: 1px, solid, black;
+    margin-top: 40px;
+}
+
+.numeros p{
     
 }
