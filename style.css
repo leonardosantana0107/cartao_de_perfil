@@ -5,13 +5,18 @@
 }
 
 
+body{
+    text-align: center;
+}
+
 
 main{
 display: inline-block;
 border: 2px, solid, black;
-/* falta diminuir a largura do main nessa linha*/
+width: 450px;
 margin-inline: auto;
 margin-bottom: 10px;
+text-align: left;
 }
 
 
@@ -21,6 +26,8 @@ margin-bottom: 10px;
     width: 200px;
     height: 200px;
 }
+
+
 
 a{
     display: inline-block;
@@ -63,4 +70,5 @@ footer{
     display: block;
     border: 2px, solid, black;
     margin: 10px 20px 30px 40px;
+    text-align: left;
 }
