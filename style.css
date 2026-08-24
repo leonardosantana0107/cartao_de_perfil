@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    box-sizing: border-box;
+    margin: 0;
+}
+
+
+
+main{
+display: inline-block;
+border: 2px, solid, black;
+
+}
+
+
+.foto{
+    display: block;
+    border: solid, black, 2px;
+    width: 200px;
+    height: 200px;
+}
+
+a{
+    
+}
