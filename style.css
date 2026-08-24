@@ -11,6 +11,7 @@ display: inline-block;
 border: 2px, solid, black;
 /* falta diminuir a largura do main nessa linha*/
 margin-inline: auto;
+margin-bottom: 10px;
 }
 
 
@@ -40,6 +41,13 @@ a{
     margin-top: 40px;
 }
 
-.numeros p{
-    
+
+
+
+
+
+footer{
+    display: block;
+    border: 2px, solid, black;
+    margin: 10px 20px 30px 40px;
 }
